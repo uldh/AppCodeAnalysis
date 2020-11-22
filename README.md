@@ -5,6 +5,7 @@ pod 'AppCodeAnalysis'
 
 2.使用方法：
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
+
 #if DEBUG
 
     SWIZZ_IT
